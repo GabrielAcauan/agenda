@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(55, 172, 123);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container{
+    background-color: #fff;
+    width: 60vh;
+    margin: auto;
+    padding: 1em;
+    border-radius: 20px;
+}
+
+li {
+    margin-bottom: .5em;
+    font-size: 1.8em;
+}
+
+.apagar{
+    padding: 8px 15px;
+    background-color: rgb(211, 19, 19);
+    font-weight: bold;
+    border: none;
+}
+
+.btn-add-tarefa{
+    padding: 8px 15px;
+    background-color: rgb(14, 216, 14);
+    font-weight: bold;
+    border: none;
+}
+
+input{
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+}
